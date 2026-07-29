@@ -75,15 +75,7 @@
 
 🔗 [Repo](YOUR_REPO_LINK) &nbsp;|&nbsp; 🎥 [Demo](YOUR_DEMO_LINK)
 
-#### 🎥 [Video Conference App with AI Integration](YOUR_REPO_LINK) — Web App
-`React` `WebRTC` `Socket.io` `Node.js/Express` `Whisper/OpenAI API`
-
-- Built real-time video conferencing using WebRTC for P2P audio/video and Socket.io for signaling
-- Integrated AI-powered live transcription and post-call summarization via the Whisper/OpenAI API
-- Added AI-based background blur and noise suppression for real-world call quality
-- Handled NAT traversal and connection stability using STUN/TURN servers
-
-🔗 [Repo](YOUR_REPO_LINK) &nbsp;|&nbsp; 🌐 [Live](YOUR_LIVE_LINK)
+---
 
 
 
