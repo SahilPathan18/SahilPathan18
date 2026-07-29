@@ -1,64 +1,90 @@
-<h1 align="center">Hi, I'm Sahil 👋</h1>
-<h3 align="center">Computer Science Student | Full-Stack Developer (React & Node.js)</h3>
+<h1 align="center">Hi, I'm Sahil Pathan 👋</h1>
+<h3 align="center">Full-Stack & App Developer</h3>
 
 <p align="center">
-  Building clean, scalable web apps and sharpening my DSA skills — aiming for roles at top product companies.
+  Building apps used by real people — from a live hostel management system to a multi-college event platform.
 </p>
 
 <p align="center">
   <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" /></a>
+  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" /></a>
+  <a href="YOUR_RESUME_LINK"><img src="https://img.shields.io/badge/Resume-4285F4?style=flat&logo=googledrive&logoColor=white" /></a>
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 CS undergrad — coursework in Software Engineering, Design & Analysis of Algorithms, and Computer Networking
-- 💻 Full-stack developer working with **React** and **Node.js**
-- 🎯 Targeting SDE roles at companies like Google, Microsoft, Amazon, Atlassian, and Adobe
-- 🧩 I think in systems — before writing code, I sketch out the architecture, edge cases, and failure modes
-- 🗣️ Direct and no-fluff communicator — I'd rather ship something concise and working than something long-winded
-- 🔁 Comfortable iterating fast — I'd rather get a rough version out and refine it than overthink v1
-- 📐 I care about the "why" behind a design decision as much as the decision itself
+- 💻 Full-stack developer comfortable across **mobile, backend, and infrastructure**
+- 🎯 Focused on shipping things that actually work — not just demos
+- 🧩 Think in systems — architecture, edge cases, and failure modes come before code
+- 🔁 Fast iterator — ship a working version, then refine
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+**Languages**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
-**Backend**
+**Frameworks**
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
-**Tools & Other**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+**Databases**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+**Tools & Platforms**
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socket.io&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME" />
-</p>
+**Concepts**
+`REST APIs` `JWT Auth` `RBAC` `Real-Time Systems` `Geolocation`
 
 ---
+
+### 🌟 Featured Projects
+
+#### 🏠 [Hostel Management System](YOUR_REPO_LINK) — Live Project, Team of 4
+`Flutter` `Node.js` `Express` `MongoDB` `Socket.io` `Firebase` `JWT`
+
+- Owned backend architecture for a live system actively deployed and used by real students and wardens
+- Architected secure REST API with JWT auth, RBAC, and bcrypt hashing across 4 distinct user roles
+- Engineered real-time chat and emergency alerts (Socket.io) plus GPS-based geofencing for student outings
+- Integrated external fingerprint scanner hardware for biometric attendance; contributed to Flutter frontend
+
+🔗 [Repo](YOUR_REPO_LINK) &nbsp;|&nbsp; 🎥 [Demo](YOUR_DEMO_LINK)
+
+#### ⚡ [Universal EV Charging Platform](YOUR_REPO_LINK) — Mobile App
+`Flutter` `Node.js` `PostgreSQL` `Google Maps API` `Payment Gateway` `Firebase`
+
+- Unified multiple EV charging networks into one platform for station discovery and booking
+- Implemented real-time map-based station search, price comparison, and slot reservation with secure payments
+- Designed a PostgreSQL schema supporting charging history, ratings, and scalable station data
+
+🔗 [Repo](YOUR_REPO_LINK) &nbsp;|&nbsp; 🎥 [Demo](YOUR_DEMO_LINK)
+
+#### 🎥 [Video Conference App with AI Integration](YOUR_REPO_LINK) — Web App
+`React` `WebRTC` `Socket.io` `Node.js/Express` `Whisper/OpenAI API`
+
+- Built real-time video conferencing using WebRTC for P2P audio/video and Socket.io for signaling
+- Integrated AI-powered live transcription and post-call summarization via the Whisper/OpenAI API
+- Added AI-based background blur and noise suppression for real-world call quality
+- Handled NAT traversal and connection stability using STUN/TURN servers
+
+🔗 [Repo](YOUR_REPO_LINK) &nbsp;|&nbsp; 🌐 [Live](YOUR_LIVE_LINK)
+
+
 
 <p align="center"><i>Open to SDE internships/full-time roles — let's connect!</i></p>
