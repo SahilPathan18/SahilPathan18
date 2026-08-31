@@ -51,29 +51,3 @@
 
 ---
 
-### 🌟 Featured Projects
-
-#### 🏠 [Hostel Management System](YOUR_REPO_LINK) — Live Project, Team of 4
-`Flutter` `Node.js` `Express` `MongoDB` `Socket.io` `Firebase` `JWT`
-
-- Owned backend architecture for a live system actively deployed and used by real students and wardens
-- Architected secure REST API with JWT auth, RBAC, and bcrypt hashing across 4 distinct user roles
-- Engineered real-time chat and emergency alerts (Socket.io) plus GPS-based geofencing for student outings
-- Integrated external fingerprint scanner hardware for biometric attendance; contributed to Flutter frontend
-
-🔗 [Repo](YOUR_REPO_LINK) &nbsp;|&nbsp; 🎥 [Demo](YOUR_DEMO_LINK)
-
-#### ⚡ [Universal EV Charging Platform](YOUR_REPO_LINK) — Mobile App
-`Flutter` `Node.js` `PostgreSQL` `Google Maps API` `Payment Gateway` `Firebase`
-
-- Unified multiple EV charging networks into one platform for station discovery and booking
-- Implemented real-time map-based station search, price comparison, and slot reservation with secure payments
-- Designed a PostgreSQL schema supporting charging history, ratings, and scalable station data
-
-🔗 [Repo](YOUR_REPO_LINK) &nbsp;|&nbsp; 🎥 [Demo](YOUR_DEMO_LINK)
-
----
-
-
-
-<p align="center"><i>Open to SDE internships/full-time roles — let's connect!</i></p>
