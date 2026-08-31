@@ -1,7 +1,7 @@
-<h1 align="center" >Sahil Pathan </h1>
-<h3 align="center">Full-Stack Developer</h3>
+<h1 >Sahil Pathan </h1>
+<h3 >Full-Stack Developer</h3>
 
-<p align="center">
+<p >
   Building apps used by real people — from a live hostel management system to a multi-college event platform.
 </p>
 
