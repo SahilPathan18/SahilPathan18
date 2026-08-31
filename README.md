@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sahil Pathan 👋</h1>
-<h3 align="center">Full-Stack & App Developer</h3>
+<h3 align="center">Full-Stack Developer</h3>
 
 <p align="center">
   Building apps used by real people — from a live hostel management system to a multi-college event platform.
@@ -14,12 +14,9 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 
-- 💻 Full-stack developer comfortable across **mobile, backend, and infrastructure**
-- 🎯 Focused on shipping things that actually work — not just demos
-- 🧩 Think in systems — architecture, edge cases, and failure modes come before code
-- 🔁 Fast iterator — ship a working version, then refine
+- 
 
 ---
 
