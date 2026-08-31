@@ -5,12 +5,6 @@
   Building apps used by real people — from a live hostel management system to a multi-college event platform.
 </p>
 
-<p align="center">
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" /></a>
-  <a href="YOUR_RESUME_LINK"><img src="https://img.shields.io/badge/Resume-4285F4?style=flat&logo=googledrive&logoColor=white" /></a>
-</p>
 
 ---
 
