@@ -6,15 +6,10 @@
 </p>
 
 
----
-
-###  About Me
-
-- 
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 *   **Frontend:** `HTML5` | `CSS3` | `JavaScript` | `React` | `Flutter` | `Dart`
 *   **Backend:** `Node.js` | `Express.js` | `Socket.io` | `REST APIs` | `JWT Auth` | `RBAC`
