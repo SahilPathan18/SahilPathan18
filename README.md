@@ -1,21 +1,9 @@
-<h1 >Hi, I am Sahil Pathan </h1>
-<h3 >Full-Stack Developer</h3>
-
-<p >
-  Building apps used by real people — from a live hostel management system to a multi-college event platform.
-</p>
-
-
-
----
-
-###  Tech Stack
-
-*   **Frontend:** `HTML5` | `CSS3` | `JavaScript` | `React` | `Flutter` | `Dart`
-*   **Backend:** `Node.js` | `Express.js` | `Socket.io` | `REST APIs` | `JWT Auth` | `RBAC`
-*   **Databases & Cloud:** `MongoDB` | `PostgreSQL` | `Firebase`
-*   **DevOps & Tools:** `Docker` | `Kubernetes` | `Git` | `Postman`
-*   **Architecture & Systems:** `Real-Time Systems` | `Geolocation`
-
----
-
+# Sahil Pathan
+### Software Engineer
+ 
+I design and build software across desktop, web, and mobile — handling everything from architecture to deployment.
+ 
+I like taking an idea from a blank page to something people can actually use. That means thinking through the backend, the interface, and how it all holds up under real use, not just how it looks in a demo.
+ 
+Security isn't a separate step for me — it's part of how I write code from the start.
+ 
