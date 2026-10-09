@@ -1,9 +1,7 @@
 # Sahil Pathan
+
 ### Software Engineer
- 
-I design and build software across desktop, web, and mobile - handling everything from architecture to deployment.
- 
-I like taking an idea from a blank page to something people can actually use. That means thinking through the backend, the interface, and how it all holds up under real use, not just how it looks in a demo.
- 
-Security isn't a separate step for me — it's part of how I write code from the start.
- 
+
+I really enjoy developing applications for the desktop, web, and mobile platforms from scratch. I like to work on both frontend and backend and make software that is functional, dependable, and user-friendly.
+
+Good software is not just functionality to me; it is user experience, security, and seamless integration from development to deployment.
