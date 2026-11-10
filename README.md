@@ -1,4 +1,3 @@
-# Sahil Pathan
+# Hi, I am Sahil
 
-IDK Wt to write here, <br>
 i just love building stuff ✌️
