@@ -1,5 +1,4 @@
 # Sahil Pathan
 
-### Software Engineer
-
-I really enjoy developing applications for the desktop, web, and mobile platforms from scratch.
+IDK Wt to write here, 
+i just love building stuff ✌️
